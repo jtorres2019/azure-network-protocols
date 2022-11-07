@@ -31,21 +31,21 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/JBBsc21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jrEvVNc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <p>
-<img src="https://i.imgur.com/ZvpqFUs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s0Iv66s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 <p>
-<img src="https://i.imgur.com/ycea6lE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cukqDV7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 <p>
-<img src="https://i.imgur.com/kMxnbTM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tEOas0M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
